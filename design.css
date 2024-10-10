@@ -1,0 +1,273 @@
+#home-body{
+    margin:0;   
+    background-image:url("../0.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width: 100%;
+    height: 100%;
+}
+#link-home a{
+    text-decoration:none;
+    color:white;
+    font-weight:bold;  
+    
+}
+#link-home{
+    margin:20px;
+    padding-left:450px;
+    word-spacing:30px;
+    height:50px;
+    
+}
+#home1{
+    padding-top:20px;
+}
+#home2{
+    text-align:center;
+    padding-top:50px;
+    color:white;
+}
+#home3{
+    font-size:20px;
+    color:white;
+    font-weight:bold;
+}
+footer{
+    background-color:black;
+    
+}
+#footer1{
+    bottom:0;
+    width:100%;
+    text-align:center;
+    position:fixed;
+    color:white;
+}
+#footer1 a{
+    color:white;
+    font-weight:bold;
+    border-radius:none;
+    text-decoration:none;
+}
+/* About-CSS */
+#about-body{
+    margin:0;
+    background-image:url("../1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width: 100%;
+    height: 100%;    
+    
+}
+#link-about a{
+    color:white;
+    font-weight:bold;
+    text-decoration:none;
+}
+#link-about{
+    padding-left:450px;
+    margin:20px;
+    word-spacing:30px;
+    height: 50px;
+}
+#about1{
+    font-size:30px;
+    text-align:center;
+}
+#about11{
+    color:white;
+}
+#about2{
+    margin-left:100px;
+    margin-right:100px;
+    margin-bottom:20px;
+    border:1px solid transparent;
+}
+#about2 p{
+    text-align:center;
+    font-size:20px;
+    color:white;
+    margin-bottom:20px;
+}
+#footer-about{
+    background-color:black;
+}  
+#footer-about1{
+    bottom:0;
+    width:100%;
+    text-align:center;
+    position:fixed;
+    color:white;
+} 
+#footer-about1 a{
+    color:white;
+    font-weight:bold;
+    border-radius:none;
+    text-decoration:none; 
+}
+
+#about11{
+    padding-top:20px;
+}
+/* Contact-css */
+#link-contact a{
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
+}
+#link-contact{
+    margin:20px;
+    padding-left:450px;
+    word-spacing:30px;
+    height:50px;
+}
+#section-contact{
+    padding-top:20px;
+}
+#contact-body{
+    margin:0;   
+    background-image:url("../2.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width: 100%;
+    height: 100%;
+}
+#contact-img img{
+    padding-left:20%;
+    padding-top:50px;
+    width: 150px;        
+}
+#text{
+    color:white;
+    padding-left:15%;
+    word-spacing:140px;
+    font-weight:bold;
+    
+}
+#text a{
+    color:white;
+    font-weight:bold;
+}
+#footer-contact{
+    background-color:black;
+}  
+#footer-contact{
+    bottom:0;
+    width:100%;
+    text-align:center;
+    position:fixed;
+    color:white;
+} 
+#footer-contact a{
+    color:white;
+    font-weight:bold;
+    border-radius:none;
+    text-decoration:none;
+}
+/* Education-css */
+#link-education a{
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
+}
+#link-education{
+    margin:20px;
+    padding-left:450px;
+    word-spacing:30px;
+    height:50px;
+}
+#section-education{
+    padding-top:20px;
+}
+#education-body{
+    margin:0;   
+    background-image:url("../3.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width: 100%;
+    height: 100%;
+}
+#footer-education{
+    background-color:black;
+}  
+#footer-education{
+    bottom:0;
+    width:100%;
+    text-align:center;
+    position:fixed;
+    color:white;
+} 
+#section-education2 {
+    padding: 50px 200px;
+}
+
+#education-content {
+    background-color: #E74C3C;
+    color: white;
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+    text-align:center;
+}
+#education-content:hover {
+    transform: translateY(-10px);
+}
+#footer-education a{
+    color:white;
+    font-weight:bold;
+    border-radius:none;
+    text-decoration:none;
+}
+/* Hobbies-css */
+#section-hobbies{
+    padding-top:20px;
+}
+#hobbies-body{
+    margin:0;   
+    background-image:url("../3.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width: 100%;
+    height: 100%;
+}
+#link-hobbies a{
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
+}
+#link-hobbies{
+    margin:20px;
+    padding-left:450px;
+    word-spacing:30px;
+    height:50px;
+}
+#section-hobbies2 img{
+    height:300px;
+    padding-left:40px;
+    margin-left:200px;
+}
+#text123{
+    word-spacing:0;
+    margin-left:220px;
+    color:white;
+}
+#footer-hobbies{
+    background-color:black;
+}  
+#footer-hobbies{
+    bottom:0;
+    width:100%;
+    text-align:center;
+    position:fixed;
+    color:white;
+} 
+#footer-hobbies a{
+    color:white;
+    font-weight:bold;
+    border-radius:none;
+    text-decoration:none;
+}
